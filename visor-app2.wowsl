@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>21</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blast</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/galaxy/</ImageTemplate>
+            <ImageTemplateName>Galaxy</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Roboto Condensed</TemplateFont>
+            <TemplateName>galaxy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/cel1.jpg</url>
+                <title>cel1</title>
+                <filesize>20311</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/xperia.png</url>
+                <title>xperia</title>
+                <filesize>134614</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/htc.png</url>
+                <title>htc</title>
+                <filesize>248270</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/logo.png</url>
+                <title>logo</title>
+                <filesize>14123</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/Evolución-de-Teléfono-Móvil.jpg</url>
+                <title>Evolución-de-Teléfono-Móvil</title>
+                <filesize>322988</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/moto-z.png</url>
+                <title>moto-z</title>
+                <filesize>66554</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/moviles.jpg</url>
+                <title>moviles</title>
+                <filesize>46511</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/pixi.png</url>
+                <title>pixi</title>
+                <filesize>176547</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/s4.jpg</url>
+                <title>s4</title>
+                <filesize>33544</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/tiempos.jpg</url>
+                <title>tiempos</title>
+                <filesize>68474</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/xa.png</url>
+                <title>xa</title>
+                <filesize>196515</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/antena.png</url>
+                <title>antena</title>
+                <filesize>82129</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/LG-logo.png</url>
+                <title>LG-logo</title>
+                <filesize>106657</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/logo-att_antes.png</url>
+                <title>logo-att_antes</title>
+                <filesize>79029</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/movistar.png</url>
+                <title>movistar</title>
+                <filesize>1599896</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/telcel.png</url>
+                <title>telcel</title>
+                <filesize>49858</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/segundo parcial/aplicaciones/app2/imagenes/weex.jpg</url>
+                <title>weex</title>
+                <filesize>20823</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
